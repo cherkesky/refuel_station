@@ -1,0 +1,12 @@
+/Users/cherkesky/workspace/csharp/exercises/refuel_station/bin/Debug/netcoreapp3.1/refuel_station.deps.json
+/Users/cherkesky/workspace/csharp/exercises/refuel_station/bin/Debug/netcoreapp3.1/refuel_station.runtimeconfig.json
+/Users/cherkesky/workspace/csharp/exercises/refuel_station/bin/Debug/netcoreapp3.1/refuel_station.runtimeconfig.dev.json
+/Users/cherkesky/workspace/csharp/exercises/refuel_station/bin/Debug/netcoreapp3.1/refuel_station.dll
+/Users/cherkesky/workspace/csharp/exercises/refuel_station/bin/Debug/netcoreapp3.1/refuel_station.pdb
+/Users/cherkesky/workspace/csharp/exercises/refuel_station/obj/Debug/netcoreapp3.1/refuel_station.csprojAssemblyReference.cache
+/Users/cherkesky/workspace/csharp/exercises/refuel_station/obj/Debug/netcoreapp3.1/refuel_station.csproj.CoreCompileInputs.cache
+/Users/cherkesky/workspace/csharp/exercises/refuel_station/obj/Debug/netcoreapp3.1/refuel_station.AssemblyInfoInputs.cache
+/Users/cherkesky/workspace/csharp/exercises/refuel_station/obj/Debug/netcoreapp3.1/refuel_station.AssemblyInfo.cs
+/Users/cherkesky/workspace/csharp/exercises/refuel_station/obj/Debug/netcoreapp3.1/refuel_station.dll
+/Users/cherkesky/workspace/csharp/exercises/refuel_station/obj/Debug/netcoreapp3.1/refuel_station.pdb
+/Users/cherkesky/workspace/csharp/exercises/refuel_station/obj/Debug/netcoreapp3.1/refuel_station.genruntimeconfig.cache

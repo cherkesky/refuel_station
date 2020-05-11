@@ -8,7 +8,9 @@ namespace refuel_station
 
     public void Refuel(List<IElectricPowered> ep)
     {
-
+      foreach (var vehicle in ep){
+        System.Console.WriteLine($"The {vehicle.Name} refueled with 200 KW of electricity");
+      }
     }
 
   }
